@@ -1,0 +1,12 @@
+name: ChickWeight
+title: ChickWeight
+username:
+account: vijaygurram
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252674
+bundleId: 1156743
+url: https://vijaygurram.shinyapps.io/ChickWeight/
+when: 1514712554.37546
+asMultiple: FALSE
+asStatic: FALSE
